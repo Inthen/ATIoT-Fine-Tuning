@@ -5,7 +5,7 @@ Performing Fine-Tuning of LLM with ATIoT tool logic. The original ATIoT tool can
 The datasets created for the fine-tuning process can be found [here](https://huggingface.co/datasets/Inthen/ATIoT).
 
 # Instructions
-The main .py file was prepared to run in a Google Colab notebook. Experimental results show a minimum of 32GB of VRAM required to perform the fine-tuning process.
+The main .py file was prepared to run in a Google Colab notebook. Experimental results show a minimum of 32GB of VRAM required to perform the fine-tuning process. Login token for Hugging Face must be added to the file.
 
 # Acknowledgements
 
